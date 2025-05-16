@@ -1,9 +1,5 @@
 <template>
-  <div>
-    <!-- <NuxtRouteAnnouncer /> -->
-    <!-- <NuxtWelcome /> -->
-     <div >
-        Matin Jahi
-     </div>
-  </div>
+  <NuxtLayout >
+    <NuxtPage />
+  </NuxtLayout>
 </template>
